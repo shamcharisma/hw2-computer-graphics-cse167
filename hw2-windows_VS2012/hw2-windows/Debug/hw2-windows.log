@@ -1,0 +1,4 @@
+﻿  Transform.cpp
+c:\users\shameem\documents\computer graphics\cse167x-hw2-windows_vs2012\hw2-windows_vs2012\hw2-windows\transform.cpp(41): warning C4244: 'initializing': conversion from 'glm::core::type::precision::mediump_float' to 'int', possible loss of data
+  hw2-windows.vcxproj -> C:\Users\shameem\Documents\Computer Graphics\CSE167x-hw2-windows_VS2012\hw2-windows_VS2012\Debug\hw2-windows.exe
+  hw2-windows.vcxproj -> C:\Users\shameem\Documents\Computer Graphics\CSE167x-hw2-windows_VS2012\hw2-windows_VS2012\Debug\hw2-windows.pdb (Full PDB)
